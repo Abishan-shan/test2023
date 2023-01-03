@@ -9,6 +9,6 @@ class sum
         int v=10;
 >>>>>>> 0641be1dae675452bba6e89ed951fb594b35753e
         System.out.println(a+b); //summation //rajee
-
+        System.out.println(a+b+c);
     }
 }
